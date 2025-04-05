@@ -29,5 +29,5 @@ LokalJobs is a React Native mobile application built using Expo that displays jo
 - **Bookmarks**: Locally saved bookmarked jobs
 - **Job Detail**: Full job description and contact info
 
-## Project Structure
+
 
